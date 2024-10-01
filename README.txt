@@ -82,7 +82,3 @@ random selection of the books to recommend at the genre level is performed exclu
 either currently out on-loan or previously been checked-out by the member.  The list of recommended 
 book titles for the member is displayed to the librarian together with a graph bar chart detailing the genre 
 preferences for the member.
-
-Author/ Date released:
-=====================
-Max Ward (F132159), 16 December 2021.
