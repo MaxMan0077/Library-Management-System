@@ -1,0 +1,160 @@
+SF01;Science Fiction;Dune;Frank Herbert;01/01/2010;0
+SF02;Science Fiction;Dune;Frank Herbert;01/01/2010;0
+SF03;Science Fiction;Dune;Frank Herbert;28/02/2010;0
+SF04;Science Fiction;Dune;Frank Herbert;28/02/2010;0
+SF05;Science Fiction;Star Wars Visions;Emma Mieko Candon;10/06/2012;0
+SF06;Science Fiction;Star Wars Visions;Emma Mieko Candon;10/06/2012;0
+SF07;Science Fiction;Star Wars Visions;Emma Mieko Candon;17/09/2012;0
+SF08;Science Fiction;Star Wars Visions;Emma Mieko Candon;17/09/2012;0
+SF09;Science Fiction;Ready Player Two;Ernest Cline;12/05/2015;0
+SF10;Science Fiction;Ready Player Two;Ernest Cline;08/12/2018;0
+SF11;Science Fiction;Foundation;Isaac Asimov;14/11/2013;0
+SF12;Science Fiction;Foundation;Isaac Asimov;01/04/2019;0
+SF13;Science Fiction;Hitch-Hikers Guide To The Galaxy;Douglas Adams;31/01/2021;GTL1
+SF14;Science Fiction;Earthlings;Sayaka Murata;15/06/2018;0
+SF15;Science Fiction;Under The Whispering Door;TJ Klune;07/03/2011;0
+SF16;Science Fiction;Termination Shock;Neal Stephenson;14/08/2012;0
+SF17;Science Fiction;Cytonic;Brandon Sanderson;24/10/2018;0
+SF18;Science Fiction;Iron Widow;Xiran Jay Zhao;29/12/2020;GTL1
+SF19;Science Fiction;Dare To Know;James Kennedy;02/02/2010;0
+SF20;Science Fiction;Galaxias;Stephen Baxter;13/04/2013;0
+HR01;Horror;Empire of the Vampire;Jay Kristoff;01/01/2010;SWL1
+HR02;Horror;Empire of the Vampire;Jay Kristoff;01/01/2010;0
+HR03;Horror;Empire of the Vampire;Jay Kristoff;28/02/2010;0
+HR04;Horror;Empire of the Vampire;Jay Kristoff;28/02/2010;SBT1
+HR05;Horror;The Devil And The Dark Water;Stuart Turton;10/06/2012;0
+HR06;Horror;The Devil And The Dark Water;Stuart Turton;10/06/2012;0
+HR07;Horror;The Devil And The Dark Water;Stuart Turton;17/09/2012;0
+HR08;Horror;The Devil And The Dark Water;Stuart Turton;17/09/2012;0
+HR09;Horror;IT;Stephen King;12/05/2015;0
+HR10;Horror;IT;Stephen King;08/12/2018;0
+HR11;Horror;The Shining;Stephen King;14/11/2013;0
+HR12;Horror;The Shining;Stephen King;01/04/2019;0
+HR13;Horror;The Haunting of Hill House;Shirley Jackson;31/01/2021;0
+HR14;Horror;Dracula;Ang Lee;15/06/2018;0
+HR15;Horror;The Last House on Needless Street;Catriona Ward;07/03/2011;0
+HR16;Horror;The Haunting Season;Bridget Collins;14/08/2012;0
+HR17;Horror;The Burning Girls;C. J. Tudor;24/10/2018;0
+HR18;Horror;My Best Friend's Exorcism;Grady Hendrix;29/12/2020;0
+HR19;Horror;Carrie;Stephen King;02/02/2010;0
+HR20;Horror;Necronomicon;H.P. Lovecraft;13/04/2013;0
+FN01;Fantasy;Harry Potter and the Philosopher's Stone;J. K. Rowling;01/01/2010;0
+FN02;Fantasy;Harry Potter and the Philosopher's Stone;J. K. Rowling;01/01/2010;0
+FN03;Fantasy;Harry Potter and the Philosopher's Stone;J. K. Rowling;28/02/2010;0
+FN04;Fantasy;Harry Potter and the Philosopher's Stone;J. K. Rowling;28/02/2010;0
+FN05;Fantasy;Harry Potter and the Chamber of Secrets;J. K. Rowling;10/06/2012;0
+FN06;Fantasy;Harry Potter and the Chamber of Secrets;J. K. Rowling;10/06/2012;0
+FN07;Fantasy;Harry Potter and the Chamber of Secrets;J. K. Rowling;17/09/2012;0
+FN08;Fantasy;Harry Potter and the Chamber of Secrets;J. K. Rowling;17/09/2012;0
+FN09;Fantasy;The Handmaid's Tale;Margaret Atwood;12/05/2015;0
+FN10;Fantasy;The Handmaid's Tale;Margaret Atwood;08/12/2018;0
+FN11;Fantasy;The Hobbit;J. R. R. Tolkien;14/11/2013;0
+FN12;Fantasy;The Hobbit;J. R. R. Tolkien;01/04/2019;0
+FN13;Fantasy;Harry Potter and the Order of the Phoenix;J. K. Rowling;31/01/2021;0
+FN14;Fantasy;Midnight in Everwood;M.A. Kuzniar;15/06/2018;MMG5
+FN15;Fantasy;Piranesi;Susanna Clarke;07/03/2011;0
+FN16;Fantasy;The Wheel of Time;Robert Jordan;14/08/2012;GTL1
+FN17;Fantasy;Our Violent Ends;Chloe Gong;24/10/2018;0
+FN18;Fantasy;A Discovery of Witches;Deborah Harkness;29/12/2020;0
+FN19;Fantasy;Kingdom of the Cursed;Kerri Maniscalo;02/02/2010;0
+FN20;Fantasy;Six Crimson Cranes;Elizabeth Lim;13/04/2013;0
+RO01;Romance;It Ends With Us;Colleen Hoover;01/01/2010;0
+RO02;Romance;It Ends With Us;Colleen Hoover;01/01/2010;MRO1
+RO03;Romance;It Ends With Us;Colleen Hoover;28/02/2010;0
+RO04;Romance;It Ends With Us;Colleen Hoover;28/02/2010;0
+RO05;Romance;The Seven Husbands of Evelyn Hugo;Taylor Jenkins Reid;10/06/2012;0
+RO06;Romance;The Seven Husbands of Evelyn Hugo;Taylor Jenkins Reid;10/06/2012;MRO1
+RO07;Romance;The Seven Husbands of Evelyn Hugo;Taylor Jenkins Reid;17/09/2012;0
+RO08;Romance;The Seven Husbands of Evelyn Hugo;Taylor Jenkins Reid;17/09/2012;0
+RO09;Romance;Ugly Love;Colleen Hoover;12/05/2015;0
+RO10;Romance;Ugly Love;Colleen Hoover;08/12/2018;0
+RO11;Romance;Daisy Jones and The Six;Taylor Jenkins Reid;14/11/2013;0
+RO12;Romance;Daisy Jones and The Six;Taylor Jenkins Reid;01/04/2019;0
+RO13;Romance;You and Me on Vacation;Emily Henry;31/01/2021;0
+RO14;Romance;The Wolf Den;Elodie Harper;15/06/2018;0
+RO15;Romance;Red, White & Royal Blue;Casey McQuiston;07/03/2011;0
+RO16;Romance;Grown Ups;Marian Keyes;14/08/2012;0
+RO17;Romance;The Hating Game;Sally Thorne;24/10/2018;MRO1
+RO18;Romance;A Court of Thorns and Roses;Sarah J. Maas;29/12/2020;0
+RO19;Romance;Call Me By Your Name;Andre Aciman;02/02/2010;0
+RO20;Romance;Small Pleasures;Clare Chambers;13/04/2013;0
+CL01;Classics;Little Women;Louisa May Alcott;01/01/2010;0
+CL02;Classics;Little Women;Louisa May Alcott;01/01/2010;0
+CL03;Classics;Little Women;Louisa May Alcott;28/02/2010;0
+CL04;Classics;Little Women;Louisa May Alcott;28/02/2010;0
+CL05;Classics;Pride and Prejudice;Jane Austin;10/06/2012;0
+CL06;Classics;Pride and Prejudice;Jane Austin;10/06/2012;0
+CL07;Classics;Pride and Prejudice;Jane Austin;17/09/2012;0
+CL08;Classics;Pride and Prejudice;Jane Austin;17/09/2012;0
+CL09;Classics;The Picture of Dorian Gray;Oscar Wilde;12/05/2015;MWD1
+CL10;Classics;The Picture of Dorian Gray;Oscar Wilde;08/12/2018;0
+CL11;Classics;Wuthering Heights;Emily Bronte;14/11/2013;MMG5
+CL12;Classics;Wuthering Heights;Emily Bronte;01/04/2019;0
+CL13;Classics;Of Mice and Men;John Steinbeck;31/01/2021;0
+CL14;Classics;A Christmas Carol;Charles Dickins;15/06/2018;MWD1
+CL15;Classics;Rebecca;Daphne Du Maurier;07/03/2011;0
+CL16;Classics;Animal Farm;George Orwell;14/08/2012;0
+CL17;Classics;Frankenstein;Mary Shelley;24/10/2018;0
+CL18;Classics;Brave New World;Aldous Huxley;29/12/2020;MMG5
+CL19;Classics;The Adventure of the Christmas;Agatha Christie;02/02/2010;0
+CL20;Classics;Alice's Adventures in Wonderland and Through the Looking Glass;Sir John Tenniel;13/04/2013;MMG5
+SP01;Sport;Behind the Mask;Tyson Fury;01/01/2010;0
+SP02;Sport;Behind the Mask;Tyson Fury;01/01/2010;0
+SP03;Sport;Behind the Mask;Tyson Fury;28/02/2010;0
+SP04;Sport;Behind the Mask;Tyson Fury;28/02/2010;0
+SP05;Sport;Klopp;Anthony Quinn;10/06/2012;0
+SP06;Sport;Klopp;Anthony Quinn;10/06/2012;0
+SP07;Sport;Klopp;Anthony Quinn;17/09/2012;0
+SP08;Sport;Klopp;Anthony Quinn;17/09/2012;0
+SP09;Sport;Match of the Day Top 10 of Everything;Gary Lineker;12/05/2015;MWD1
+SP10;Sport;Match of the Day Top 10 of Everything;Gary Lineker;08/12/2018;0
+SP11;Sport;The Gladiator Mindset;Adam Peaty;14/11/2013;0
+SP12;Sport;The Gladiator Mindset;Adam Peaty;01/04/2019;0
+SP13;Sport;The Wit of Cricket;Barry Johnston;31/01/2021;0
+SP14;Sport;Tour de Force;Mark Cavendish;15/06/2018;MWD1
+SP15;Sport;Too Many Reasons to Live;Rob Burrow;07/03/2011;MWD1
+SP16;Sport;Why We Kneel How We Rise;Michael Holding;14/08/2012;MWD1
+SP17;Sport;Leap of Faith;Frankie Dettori;24/10/2018;0
+SP18;Sport;Ruck Me;James Haskell;29/12/2020;DEL9
+SP19;Sport;Epic Runs of the World;Lonely Planet;02/02/2010;GTL1
+SP20;Sport;How to Build a Car;Adrian Newey;13/04/2013;MWD1
+MS01;Music;The Lyrics;Paul McCartney;01/01/2010;0
+MS02;Music;The Lyrics;Paul McCartney;01/01/2010;0
+MS03;Music;The Lyrics;Paul McCartney;28/02/2010;DEL9
+MS04;Music;The Lyrics;Paul McCartney;28/02/2010;0
+MS05;Music;The Storyteller;Dave Grohl;10/06/2012;0
+MS06;Music;The Storyteller;Dave Grohl;10/06/2012;0
+MS07;Music;The Storyteller;Dave Grohl;17/09/2012;0
+MS08;Music;The Storyteller;Dave Grohl;17/09/2012;0
+MS09;Music;The Beatles: Get Back;The Beatles;12/05/2015;0
+MS10;Music;The Beatles: Get Back;The Beatles;08/12/2018;MMG5
+MS11;Music;Supersonic;Oasis;14/11/2013;MWD1
+MS12;Music;Supersonic;Oasis;01/04/2019;0
+MS13;Music;How to Be a Rock Star;Shaun Ryder;31/01/2021;MWD1
+MS14;Music;The Classic FM Puzzle Book;Classic FM;15/06/2018;0
+MS15;Music;Sea Shanties;Karen Dolby;07/03/2011;JBR1
+MS16;Music;Kid A Mnesia;Thom Yorke;14/08/2012;0
+MS17;Music;We Could Be;Tom Hagler;24/10/2018;0
+MS18;Music;Set the Night on Fire;Robby Krieger;29/12/2020;DVN1
+MS19;Music;Symphonies for the Soul;Oliver Condy;02/02/2010;MWD1
+MS20;Music;Perfect Pitch;Tim Bouverie;13/04/2013;0
+FD01;Food & Drink;Together;Jamie Oliver;01/01/2010;0
+FD02;Food & Drink;Together;Jamie Oliver;01/01/2010;0
+FD03;Food & Drink;Together;Jamie Oliver;28/02/2010;0
+FD04;Food & Drink;Together;Jamie Oliver;28/02/2010;DEL9
+FD05;Food & Drink;Gino's Italian Family Adventure;Gino D'Acampo;10/06/2012;0
+FD06;Food & Drink;Gino's Italian Family Adventure;Gino D'Acampo;10/06/2012;0
+FD07;Food & Drink;Gino's Italian Family Adventure;Gino D'Acampo;17/09/2012;0
+FD08;Food & Drink;Gino's Italian Family Adventure;Gino D'Acampo;17/09/2012;0
+FD09;Food & Drink;A Cook's Book;Nigel Slater;12/05/2015;0
+FD10;Food & Drink;A Cook's Book;Nigel Slater;08/12/2018;DEL9
+FD11;Food & Drink;The Hairy Bikers' Everyday Winners;Hairy Bikers;14/11/2013;MMG5
+FD12;Food & Drink;The Hairy Bikers' Everyday Winners;Hairy Bikers;01/04/2019;MMG5
+FD13;Food & Drink;Taste;Stanley Tucci;31/01/2021;DEL9
+FD14;Food & Drink;BOSH on a Budget;Henry Firth;15/06/2018;0
+FD15;Food & Drink;Love to Cook;Mary Berry;07/03/2011;DEL9
+FD16;Food & Drink;Nadiya's Fast Flavours;Nadiya Hussain;14/08/2012;DEL9
+FD17;Food & Drink;Advent;Anja Dunk;24/10/2018;MRO1
+FD18;Food & Drink;30 Minute Mowgli;Nisha Katona;29/12/2020;0
+FD19;Food & Drink;Jane's Patisserie;Jane Dunn;02/02/2010;MRO1
+FD20;Food & Drink;Rick Stein at Home;Rick Stein;13/04/2013;MWD1
