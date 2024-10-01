@@ -10,7 +10,6 @@
 #                       titleSearch()
 #                       loanLengthCheck()
 #
-#  Author:      Max Ward (F132159)       Date-Written: 16 December 2021
 #
 #-------------------------------------------------------------------------------
 
